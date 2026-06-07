@@ -105,7 +105,7 @@ Proof layers:
 
 Golden rule: each extra click/form field can reduce conversion by 10–30%.
 
-Ranked CTA types:
+Ranked CTA types (benchmark estimates from the strategy draft; validate with your own funnel data):
 1. **WhatsApp direct button** (~97% CVR)
 2. **Calendly/Cal.com embed** (~74% CVR)
 3. **Free audit/proposal form** (~52% CVR)
